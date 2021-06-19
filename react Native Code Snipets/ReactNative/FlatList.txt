@@ -1,0 +1,11 @@
+keyExtractor=(item,index)=>{
+    index.toString()
+}
+renderItem=({item,i})=>{
+    return(
+        <ListItem key={i} title={item.} subtitle={item.} titleStyle={{
+
+        }} leftElement={} rightElement={} bottomDivider/>
+    )
+}
+<FlatList data={} keyExtractor={this.keyExtractor} renderItem={this.renderItem}/>

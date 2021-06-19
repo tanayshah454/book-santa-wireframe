@@ -1,0 +1,7 @@
+<TouchableOpacity style={styles.container} onPress={()=>{
+    
+}}>
+<Text>
+
+</Text>
+</TouchableOpacity>

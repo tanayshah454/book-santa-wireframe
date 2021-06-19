@@ -1,0 +1,1 @@
+npm install react-native-elements react-native-gesture-handler react-native-reanimated react-native-screens firebase react-navigation react-navigation-drawer react-navigation-stack react-navigation-tabs expo-image-picker react-native-google-books react-native-swipe-list-view react-native-safe-area-context

@@ -1,0 +1,15 @@
+const styles=StyleSheet.create({
+container:{
+    display:flex,
+    justifyContent:'center',
+    alignItems:'center'
+    width:'',
+    height:'',
+    borderWidth:'',
+    borderRadius:'',
+    fontSize:'',
+    FontWeight:'',
+    backgroundColor:'',
+    backgroundImage:''
+}
+})

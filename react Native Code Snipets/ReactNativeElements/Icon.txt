@@ -1,0 +1,6 @@
+<Icon
+  raised
+  name='heartbeat'
+  type='font-awesome'
+  color='#f50'
+  onPress={() => console.log('hello')} />

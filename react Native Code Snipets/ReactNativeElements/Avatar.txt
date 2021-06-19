@@ -1,0 +1,11 @@
+<Avatar
+  rounded
+  source={{
+    uri:
+      '',
+  }}
+  title=''
+  onPress={()=>{
+      
+  }}
+/>

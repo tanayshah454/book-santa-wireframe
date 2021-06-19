@@ -1,0 +1,4 @@
+<ListItem key={i} title={item.} subtitle={item.} titleStyle={{
+    
+}} leftElement={} rightElement={} bottomDivider/
+        />

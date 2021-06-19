@@ -1,0 +1,6 @@
+ <Input
+   placeholder="Comment"
+   leftIcon={{ type: 'font-awesome', name: 'comment' }}
+   style={styles.}
+   onChangeText={value => this.setState({ comment: value })}
+  />
